@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
+</p>
+
+
+
 # Hi, I'm Munawer Jabeen 👋  
 
 💡 Data Analyst passionate about **marketing & content analytics**.  
