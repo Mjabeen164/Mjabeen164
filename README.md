@@ -46,6 +46,10 @@ Analyzed **1000 startups dataset** to explore revenue vs expenses and top growth
 ![Startup Dashboard](Screenshot%20Dashboard.png)  
 
 ---
+### 🚀 Automated News Scraper
+- [News Scraper Automation](https://github.com/yourusername/news-scraper-automation)  
+  Automated BBC Tech News scraper with daily GitHub Actions updates.
+
 
 ## 📬 Contact  
 📧 **munawerjabeen703@gmail.com**  
