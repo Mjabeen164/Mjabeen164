@@ -64,6 +64,7 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
    - **Key Insight:** Discovery methods changed over time; heavier exoplanets are rarer at large distances
 👉 [View Repo](https://github.com/Mjabeen164/Exoplanet-Visualization-Python)
   
+---
 
 ### 🍽️ Restaurant Data Analysis (Python + Tableau)  
 Explored restaurant ratings, cuisines, table booking, and online delivery trends.  
