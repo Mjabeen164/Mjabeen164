@@ -29,7 +29,7 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 ### 🛍 [Vrinda Store Sales Dashboard (Excel)]  
    - Pivot tables, interactive dashboard, KPI cards  
    - **Key Insight:** Women purchase more, Amazon/Flipkart are top channels
- 👉 [View Repo](https://github.com/Mjabeen164/Vrinda-Store-Sales-Dashboard)  
+ 👉 [View Repo](https://github.com/Mjabeen164/Store-Sales-Analysis)  
 ![Vrinda Dashboard](Dashboard.png)
 
 ---
