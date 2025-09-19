@@ -13,10 +13,9 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 
 ## 🧰 Skills  
 
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
