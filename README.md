@@ -53,16 +53,12 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
    - **Key Insight:** Mileage and brand strongly influence price
 👉 [View Repo](https://github.com/Mjabeen164/Vrinda-Store-Sales-Dashboard)  
 
-![Vrinda Dashboard](Dashboard.png)  
-
 ---
 
 ### ⏱ [Fitness Tracker Data (Excel + Python)] 
    - Steps vs Calories correlation, activity by weekday  
    - **Key Insight:** Sedentary time dominated weekdays
 👉 [View Repo](https://github.com/Mjabeen164/Fitbit-Activity-Analysis)  
-
-![Vrinda Dashboard](Dashboard.png) 
 
 ---
 
