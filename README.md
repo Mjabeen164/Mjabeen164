@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
-</p>
+-
 
 
 
@@ -24,6 +22,20 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 ---
 
 ## 🔭 Featured Projects  
+
+### 📦 [Amazon Sales Dashboard (Power BI)]
+   - Category-wise revenue, top-selling products, discount & rating analysis  
+   - **Key Insight:** Smartphones contribute the highest revenue; average discount is ~47%  
+👉 [View Repo](https://github.com/Mjabeen164/Amazon-Sales-Dashboard)
+
+---
+
+### 🚲 [Blinkit Real-Time Analysis (Power BI)]
+   - Live sales monitoring, order flow insights, and delivery performance tracking  
+   - **Key Insight:** Peak order times in evenings; delivery window impacts repeat purchases  
+👉 [View Repo](https://github.com/Mjabeen164/Blinkit-_Real_time_analysis)
+
+---
 
 ### HR Analytics Dashboard – Power BI
 **Interactive Power BI report for employee attrition, demographics, job satisfaction, and KPIs.**
