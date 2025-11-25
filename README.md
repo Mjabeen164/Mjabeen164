@@ -39,11 +39,10 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 
 ---
 
-### HR Analytics Dashboard – Power BI
-**Interactive Power BI report for employee attrition, demographics, job satisfaction, and KPIs.**
-   - **Key Insight:** This dashboard helps HR teams identify attrition drivers, track demographics, and monitor KPIs.
-  👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
-![HR Dashboard Preview](Dashboard.png) 
+### 👥 [HR Analytics Dashboard (Power BI)]
+   - Employee demographics, attrition trends, performance & leave analytics  
+   - **Key Insight:** Identifies key drivers of retention and highlights departments with highest risk  
+👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
 
 ---
 
