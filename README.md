@@ -25,6 +25,13 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 
 ## 🔭 Featured Projects  
 
+### 🛒 [E-Commerce Sales & Profitability Analysis (Power BI + SQL)]
+- End-to-end BI project covering sales performance, product profitability & discount strategy  
+- **Key Insight:** Identified loss-making categories and demonstrated strong negative correlation between discounts and profit  
+👉 [View Repo](https://github.com/Mjabeen164/E-Commerce-Sales-Profitability-Analysis)
+
+---
+
 ### 📦 [Amazon Sales Dashboard (Power BI)]
    - Category-wise revenue, top-selling products, discount & rating analysis  
    - **Key Insight:** Smartphones contribute the highest revenue; average discount is ~47%  
