@@ -29,42 +29,42 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
   - End-to-end healthcare analytics project analyzing smoking impact across lungs, liver, heart, kidneys, and overall body health
   - Integrated SQL-driven risk analysis with an interactive Power BI dashboard for organ-level, demographic, and age-group insights
   - **Key Insight:** Health risk from smoking is systemic rather than isolated, with damaged cases showing longer smoking duration, higher daily intake, and elevated cardiovascular risk, especially in older age groups
-👉  [View Repo](https://github.com/Mjabeen164/Smoking-Related-Health-Risk-Analysis-Across-Vital-Organs).
+  👉  [View Repo](https://github.com/Mjabeen164/Smoking-Related-Health-Risk-Analysis-Across-Vital-Organs).
 
 ---
 
 ### 🛒 [E-Commerce Sales & Profitability Analysis (Power BI + SQL)]
  - End-to-end BI project covering sales performance, product profitability & discount strategy  
  - **Key Insight:** Identified loss-making categories and demonstrated strong negative correlation between discounts and profit  
-👉 [View Repo](https://github.com/Mjabeen164/E-Commerce-Sales-Profitability-Analysis)
+ 👉 [View Repo](https://github.com/Mjabeen164/E-Commerce-Sales-Profitability-Analysis)
 
 ---
 
 ### 📦 [Amazon Sales Dashboard (Power BI)]
    - Category-wise revenue, top-selling products, discount & rating analysis  
    - **Key Insight:** Smartphones contribute the highest revenue; average discount is ~47%  
-👉 [View Repo](https://github.com/Mjabeen164/Amazon-Sales-Dashboard)
+   👉 [View Repo](https://github.com/Mjabeen164/Amazon-Sales-Dashboard)
 
 ---
 
 ### 🚲 [Blinkit Real-Time Analysis (Power BI)]
    - Live sales monitoring, order flow insights, and delivery performance tracking  
    - **Key Insight:** Peak order times in evenings; delivery window impacts repeat purchases  
-👉 [View Repo](https://github.com/Mjabeen164/Blinkit-_Real_time_analysis)
+   👉 [View Repo](https://github.com/Mjabeen164/Blinkit-_Real_time_analysis)
 
 ---
 
 ### 👥 [HR Analytics Dashboard (Power BI)]
    - Employee demographics, attrition trends, performance & leave analytics  
    - **Key Insight:** Identifies key drivers of retention and highlights departments with highest risk  
-👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
+   👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
 
 ---
 
 ### 🛍 [Vrinda Store Sales Dashboard (Excel)]  
    - Pivot tables, interactive dashboard, KPI cards  
    - **Key Insight:** Women purchase more, Amazon/Flipkart are top channels
- 👉 [View Repo](https://github.com/Mjabeen164/Store-Sales-Analysis)  
+   👉 [View Repo](https://github.com/Mjabeen164/Store-Sales-Analysis)  
 ![Vrinda Dashboard](Dashboard.png)
 
 ---
@@ -72,28 +72,28 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 ### 🍕 [Pizza Sales SQL Analysis]
    - SQL queries to find top-selling pizzas, peak order times  
    - **Key Insight:** Fridays and evenings had maximum demand
-👉 [View Repo](https://github.com/Mjabeen164/Pizza-Sales-Project-SQL-)  
+   👉 [View Repo](https://github.com/Mjabeen164/Pizza-Sales-Project-SQL-)  
 
 ---
 
 ### 🚗 [Car Sales EDA (Python)] 
    - Pandas, Matplotlib for trend analysis  
    - **Key Insight:** Mileage and brand strongly influence price
-👉 [View Repo](https://github.com/Mjabeen164/Vrinda-Store-Sales-Dashboard)  
+   👉 [View Repo](https://github.com/Mjabeen164/Vrinda-Store-Sales-Dashboard)  
 
 ---
 
 ### ⏱ [Fitness Tracker Data (Excel + Python)] 
    - Steps vs Calories correlation, activity by weekday  
    - **Key Insight:** Sedentary time dominated weekdays
-👉 [View Repo](https://github.com/Mjabeen164/Fitbit-Activity-Analysis)  
+   👉 [View Repo](https://github.com/Mjabeen164/Fitbit-Activity-Analysis)  
 
 ---
 
 ### 🔭 [Exoplanet Visualization (Python + Seaborn)]  
    - Analysis & plots of exoplanet discovery trends: methods, orbital periods, system sizes  
    - **Key Insight:** Discovery methods changed over time; heavier exoplanets are rarer at large distances
-👉 [View Repo](https://github.com/Mjabeen164/Exoplanet-Visualization-Python)
+   👉 [View Repo](https://github.com/Mjabeen164/Exoplanet-Visualization-Python)
   
 ---
 
