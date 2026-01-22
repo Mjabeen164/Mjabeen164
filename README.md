@@ -29,7 +29,7 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
   - End-to-end healthcare analytics project analyzing smoking impact across lungs, liver, heart, kidneys, and overall body health
   - Integrated SQL-driven risk analysis with an interactive Power BI dashboard for organ-level, demographic, and age-group insights
   - **Key Insight:** Health risk from smoking is systemic rather than isolated, with damaged cases showing longer smoking duration, higher daily intake, and elevated cardiovascular risk, especially in older age groups
-👉 [View Repo](https://github.com/Mjabeen164/Smoking-Related-Health-Risk-Analysis-Across-Vital-Organs).
+👉  [View Repo](https://github.com/Mjabeen164/Smoking-Related-Health-Risk-Analysis-Across-Vital-Organs).
 
 ---
 
