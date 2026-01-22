@@ -6,8 +6,17 @@
 
 # Hi, I'm Munawer Jabeen 👋  
 
-💡 Data Analyst passionate about **marketing & content analytics**.  
-I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw data into meaningful insights and dashboards.  
+Aspiring **Data Analyst** with hands-on experience in **SQL, Power BI, Excel, and Python**, focused on transforming raw data into **clear, decision-ready insights** across **healthcare, business, and people analytics**.
+
+I enjoy working at the intersection of **data, problem-solving, and storytelling**, building dashboards and analyses that help stakeholders make informed decisions.
+
+---
+
+## 🔍 What I Do
+- Analyze structured datasets using **SQL & Python**
+- Build interactive dashboards in **Power BI**
+- Translate analytical findings into **actionable business insights**
+- Work on **end-to-end analytics projects**: data cleaning → analysis → visualization → insights
 
 ---
 
@@ -40,6 +49,24 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 
 ---
 
+### 👥 [HR Analytics Dashboard (Power BI)]
+   - Employee demographics, attrition trends, performance & leave analytics  
+   - **Key Insight:** Identifies key drivers of retention and highlights departments with highest risk  
+   👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
+
+---
+
+## 📘 Practice & Learning Projects
+
+The following repositories reflect my continuous learning and hands-on practice in SQL, Power BI, and data analysis concepts.
+
+- SQL practice queries
+- Power BI dashboard experiments
+- Data cleaning and transformation exercises
+
+(Available on my GitHub repositories)
+
+
 ### 📦 [Amazon Sales Dashboard (Power BI)]
    - Category-wise revenue, top-selling products, discount & rating analysis  
    - **Key Insight:** Smartphones contribute the highest revenue; average discount is ~47%  
@@ -54,12 +81,6 @@ I specialize in using **Python, Excel, SQL, Tableau, and Power BI** to turn raw 
 
 ---
 
-### 👥 [HR Analytics Dashboard (Power BI)]
-   - Employee demographics, attrition trends, performance & leave analytics  
-   - **Key Insight:** Identifies key drivers of retention and highlights departments with highest risk  
-   👉 [View Repo](https://github.com/Mjabeen164/HR-Analytics-Dashboard----Power-BI)
-
----
 
 ### 🛍 [Vrinda Store Sales Dashboard (Excel)]  
    - Pivot tables, interactive dashboard, KPI cards  
@@ -127,7 +148,7 @@ Analyzed **1000 startups dataset** to explore revenue vs expenses and top growth
 
 
 ## 📬 Contact  
-📧 **munawerjabeen703@gmail.com**  
+📧 **Email:** munawerjabeen703@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/munawer-jabeen-900811380/)
 
 ---
