@@ -6,7 +6,7 @@
 
 # Hi, I'm Munawer Jabeen 👋  
 
-Aspiring **Data Analyst** with hands-on experience in **SQL, Power BI, Excel, and Python**, focused on transforming raw data into **clear, decision-ready insights** across **healthcare, business, and people analytics**.
+Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python, focused on transforming raw datasets into clear, decision-ready insights across healthcare, business, and people analytics.
 
 I enjoy working at the intersection of **data, problem-solving, and storytelling**, building dashboards and analyses that help stakeholders make informed decisions.
 
